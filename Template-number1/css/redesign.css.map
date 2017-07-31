@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,2DAA2D;AA+D3D,eAGC;EAFC,EAAK;IAAE,MAAM,EAAE,KAAK;EACpB,IAAK;IAAE,MAAM,EAAE,IAAI;AC/DrB,MAAO;EACL,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,KAAK;EACb,UAAU,EAAE,6DAA6D",
+"sources": ["_import.scss","redesign.scss"],
+"names": [],
+"file": "redesign.css"
+}
